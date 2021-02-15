@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pecode-software-test-task/static/css/main.98dce6f9.chunk.css",
+    "main.js": "/pecode-software-test-task/static/js/main.06f3c54a.chunk.js",
+    "main.js.map": "/pecode-software-test-task/static/js/main.06f3c54a.chunk.js.map",
+    "runtime-main.js": "/pecode-software-test-task/static/js/runtime-main.5dad289e.js",
+    "runtime-main.js.map": "/pecode-software-test-task/static/js/runtime-main.5dad289e.js.map",
+    "static/js/2.de3f383d.chunk.js": "/pecode-software-test-task/static/js/2.de3f383d.chunk.js",
+    "static/js/2.de3f383d.chunk.js.map": "/pecode-software-test-task/static/js/2.de3f383d.chunk.js.map",
+    "index.html": "/pecode-software-test-task/index.html",
+    "static/css/main.98dce6f9.chunk.css.map": "/pecode-software-test-task/static/css/main.98dce6f9.chunk.css.map",
+    "static/js/2.de3f383d.chunk.js.LICENSE.txt": "/pecode-software-test-task/static/js/2.de3f383d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/pecode-software-test-task/static/media/rm-bg.ad668165.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dad289e.js",
+    "static/js/2.de3f383d.chunk.js",
+    "static/css/main.98dce6f9.chunk.css",
+    "static/js/main.06f3c54a.chunk.js"
+  ]
+}
